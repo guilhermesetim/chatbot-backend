@@ -1,0 +1,69 @@
+{
+    "treinamento": [
+      {
+        "usuario": [
+          "Oi",
+          "Ola",
+          "Olá",
+          "Tudo bem?",
+          "tudo bem",
+          "ola",
+          "Bom dia",
+          "Boa tarde",
+          "Boa noite",
+          "Saudações"
+        ],
+        "bot": "Olá, eu sou um ChatBot, como posso ajuda-lo?"
+      },
+      {
+        "usuario": [
+          "Como instalar o programa IRPF?",
+          "Como baixar o programa IRPF?",
+          "Como baixar o programa de imposto de renda?",
+          "Como instalar o programa de imposto de renda?",
+          "Onde instalar o programa IRPF?",
+          "Onde baixar o programa IRPF?",
+          "Onde baixar o programa de imposto de renda?",
+          "Onde instalar o programa de imposto de renda?",
+          "Download do programa de imposto de renda?",
+          "Download do software de imposto de renda?",
+          "Download do programa de IRPF?",
+          "Download do software de IRPF?"
+        ],
+        "bot": "1 - Acesse o site da Secretaria Especial da Receita Federal do Brasil (RFB) na Internet, no endereço http://www.gov.br/receitafederal/pt-br; 2 - Localize o programa IRPF 2022 na opção “Meu Imposto de Renda”; 3 - Siga as orientações para download constantes no site da RFB na Internet"
+      },
+      {
+        "usuario": [
+          "Como faço para retificar a declaração de rendimentos?",
+          "Como eu retifico a declaração?",
+          "Como retificar a declaração de rendimentos?",
+          "Como retifico a declaração?",
+          "Onde retificar a declaração de rendimentos?",
+          "Onde retifico a declaração?",
+          "Preciso retificar a declaração de rendimentos"
+        ],
+        "bot": "desde que não esteja sob procedimento de ofício. Se apresentada após o prazo final (31/05/2022), a Declaração de Ajuste Anual (DAA) retificadora deve ser apresentada observando-se a mesma natureza da declaração original, não se admitindo troca de opção por outra forma de tributação. "
+      },
+      {
+        "usuario": [
+          "Quem pode optar pelo desconto simplificado na apresentação da Declaração de Ajuste Anual?",
+          "O que se considera como opção pelo desconto simplificado?",
+          "Como opto pelo desconto simplificado?",
+          "Tenho direito ao desconto simplificado?",
+          "Como solicito o desconto simplificado?",
+          "Critérios para solicitar o desconto simplificado"
+        ],
+        "bot": "A opção pelo desconto simplificado implica a substituição de todas as deduções admitidas na legislação        tributária, correspondente à dedução de 20% do valor dos rendimentos tributáveis na Declaração de Ajuste Anual, limitado a R$ 16.754,34 (dezesseis mil, setecentos e cinquenta e quatro reais e trinta e quatro centavos). Não necessita de comprovação e pode ser utilizado independentemente do montante dos rendimentos recebidos e do número de fontes pagadoras."
+      },
+      {
+        "usuario": [
+          "Obrigado",
+          "Obrigada",
+          "Tchau",
+          "Grato",
+          "Bye"
+        ],
+        "bot": "Disponha, o bot agradeçe!"
+      }
+    ]
+  }
